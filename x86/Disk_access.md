@@ -1,4 +1,5 @@
 # Disk access via BIOS
+(The file is written for the NASM assembler)
 The following functions follow the following calling convention (as callee):
 
     push 1_return_value
